@@ -1,5 +1,5 @@
 /* ========= CONFIGURATION — edit these ========= */
-const HER_NAME   = "Paro";
+const HER_NAME   = "MyL.";
 const YOUR_NAME  = "Yours Sweet Heart 💖";
 const START_DATE = "2026-09-18T00:00:00";   // when your story began
 const MUSIC_FILE = "Apna Bana Le - Full Audio Bhediya Varun Dhawan, Kriti Sanon Sachin-Jigar,Arijit Singh,Amitabh B.mp3";                       // e.g. "music.mp3" (leave empty for none)
